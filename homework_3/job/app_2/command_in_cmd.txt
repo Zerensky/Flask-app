@@ -1,0 +1,5 @@
+pip install flask            - Установка flask
+pip install flask-SQLAlchemy - Установка ORM
+pip install cli              - Установка управления из cmd
+flask init-db                - инициализация моделей БД
+flask fill-db                - заполнение БД
